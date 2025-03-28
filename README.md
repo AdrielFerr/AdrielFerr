@@ -1,5 +1,5 @@
 # 💫 About Me:
-Trabalho com desenvolvimento web há mais de 2 anos, utilizando PHP, MySQL, HTML, JavaScript e CSS. Tenho experiência em configuração de servidores, Docker Swarm e automações com Typebot e n8n.
+Sou desenvolvedor web há mais de 2 anos, sempre buscando novas soluções e aprimorando processos. Gosto de transformar ideias em sistemas eficientes, unindo lógica, automação e infraestrutura para garantir desempenho e escalabilidade. A tecnologia evolui rápido, e estou sempre acompanhando para criar soluções cada vez melhores. 🚀
 
 
 ## 🌐 Socials:
