@@ -12,7 +12,6 @@ Sou desenvolvedor web atuando desde 2022, sempre buscando novas soluções e apr
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AdrielFerr&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdrielFerr&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielFerr&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
